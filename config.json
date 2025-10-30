@@ -1,0 +1,9 @@
+ {
+     "tbc":{
+         "clientId": "a35288ce395940fd9f53a74edc7409a0",
+         "secret": "!iZDKnzlKPzhef%)3DAy($zd&rJcqj*F",
+         "user": "admin",
+         "lifetime":10000,
+         "url": "https://ouessant.alego-solutions.fr:8125/xtrem/api"
+     }
+ }

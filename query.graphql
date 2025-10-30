@@ -1,0 +1,13 @@
+{
+    xtremX3Structure{
+        country{
+            query{
+                edges{
+                    node{
+                        code
+                    }
+                }
+            }
+        }
+    }
+}
