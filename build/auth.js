@@ -1,4 +1,3 @@
-import { log } from 'console';
 import jsonwebtoken from 'jsonwebtoken';
 ;
 export function getAuthToken(options, audience) {
